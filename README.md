@@ -11,4 +11,4 @@ This project was created by OPZ LLC, and is currently maintained by the OPZ team
 * **OPZ Web3 Browser:** OPZ includes a dedicated Web3 browser, further simplifying the user's journey into the world of dApps and other services.
 
 
-See more details and download links at https://www.opz.com
+See more details and download links at https://www.opz.io
